@@ -13,6 +13,7 @@
 	float: left;
 	padding: 5px;
 	margin: 15px;
+	overflow: scroll;
 }
 img {
 	width: 200px
